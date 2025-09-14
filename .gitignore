@@ -1,0 +1,40 @@
+# Compiled files
+*.o
+*.obj
+*.exe
+
+# Visual Studio files
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+
+# Code::Blocks files
+*.cbp
+*.layout
+*.depend
+
+# Dev-C++ files
+*.dev
+
+# IDE files
+.vscode/
+.idea/
+
+# Windows generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Project specific
+test_input.txt
+output.txt
