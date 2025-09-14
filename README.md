@@ -141,18 +141,6 @@ The BFS algorithm works as follows:
 - **Space Complexity**: O(V) for visited array and queue
 - **Memory Management**: Proper destructors and cleanup methods
 
-## Project Requirements Met
-
-- ✅ Graph Creation (18 marks)
-- ✅ BFS Implementation (15 marks)
-- ✅ Input Handling (14 marks)
-- ✅ Output Generation (14 marks)
-- ✅ Code Organization (15 marks)
-- ✅ Robustness and Error Handling (9 marks)
-- ✅ Efficiency (9 marks)
-- ✅ Code Comments (5 marks)
-- ✅ Bonus Features (5 marks)
-
 ## Bonus Features Implemented
 
 1. **Interactive Menu System**: User-friendly interface with multiple options
